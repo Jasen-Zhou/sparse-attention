@@ -9,7 +9,8 @@
 Longformer、BigBird、Reformer、Routing Transformer
 
 稀疏注意力研究：
-Transformer-XL
+Transformer-XL：注意力结合RNN，下文可以获取上文信息，但上文无法获取下文信息。上下文交互不完全。
+Longformer：
 
 # NLP常用的数据集
 
