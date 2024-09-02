@@ -8,6 +8,8 @@
 
 Longformer、BigBird、Reformer、Routing Transformer
 
+稀疏注意力研究：
+Transformer-XL
 
 # NLP常用的数据集
 
